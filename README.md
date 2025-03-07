@@ -19,6 +19,7 @@ Avand datele despre echipe, jucatori, meciuri si jucatori activi se cere:
 - Sa se afiseze toti jucatorii activi ai unei echipe de la un anumit meci
 - Sa se afiseze toate meciurile dintr-o anumita perioada calendaristica
 - Sa se determine si sa se afiseze scorul de la un anumit meci
+
 B. Cerințe non-funționale:
 - Arhitectură Stratificată
 - Persistenta datelor: la alegere fisiere text sau baze de date (vezi cursul de BD)
